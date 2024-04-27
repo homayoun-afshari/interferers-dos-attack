@@ -9,10 +9,9 @@ For the GUI, I use the built-in functionalities of MATLAB including figure creat
 
 # Execution
 To start the simulation, simply run the [GUI.m](GUI.m). With the help the implemented GUI, a figure will be generated. As shown in the left figure below, click on `Start` to continue. Then, as depicted in the right figure below, you can define simulation parameters, which are set to their default values. By clicking on `Initiate the System`, you can start the simulation. 
-
-<div style="width: 100%; display: flex; justify-content: space-between;">
-	<img src="images/01.PNG" width=25%> <img src="images/02.PNG" width=25%>
-</div>
+<p align="center">
+	<img src="images/01.PNG" width=25%>&#9;<img src="images/02.PNG" width=25%>
+</p>
 
 
 Just click on start
