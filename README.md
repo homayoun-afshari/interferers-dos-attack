@@ -11,19 +11,19 @@ For the GUI, I use the built-in functionalities of MATLAB including figure creat
 To start the simulation, simply run the [GUI.m](GUI.m). With the help the implemented GUI, a figure will be generated. As shown in the left figure below, you can decided to see hints during the simulation. After that, you can click on `Start` to continue. Then, as depicted in the right figure below, you can define simulation parameters, which are set to their default values. By clicking on `Initiate the System`, you can enter the simulation system. 
 
 <p align="center">
-	<img src="images/01.PNG" height="400px";>&#9;<img src="images/02.PNG" height="400px";>
+	<img src="images/01.PNG" height="400px">&#9;<img src="images/02.PNG" height="400px">
 </p>
 
 After that, assuming you have chosen to get hints, you need to follow the instructions as shown in the left figure below. Finally, considering the middle figure below, you can start the simulation if you hit `Start the Simulation`. After this command, as illustrated by the right figure, a new figure will be created that allows you to access the logs during the simulation.
 
 <p align="center">
-	<img src="images/03.PNG" height="400px";>&#9;<img src="images/04.PNG" height="400px";>&#9;<img src="images/05.PNG" height="400px";>
+	<img src="images/03.PNG" height="400px">&#9;<img src="images/04.PNG" height="400px">&#9;<img src="images/05.PNG" height="400px">
 </p>
 
 During the simulation, you are allowed to pause and make some modifications. The following figures describe how the process is done. 
 
 <p align="center">
-	<img src="images/06.PNG" height="400px";>&#9;<img src="images/07.PNG" height="400px";>
+	<img src="images/06.PNG" height="400px">&#9;<img src="images/07.PNG" height="400px">
 </p>
 
 # References
